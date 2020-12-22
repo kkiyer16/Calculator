@@ -94,8 +94,6 @@ class Calculator{
     }
 }
 
-
-
 const numbers = document.querySelectorAll(".calc-number");
 const operators = document.querySelectorAll(".calc-operator");
 const clearAll = document.getElementById("clear");
